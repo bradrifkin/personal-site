@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+This project was created as part of the Web Dev Basics module in Scrimba's Frontend Career Path program. HTML and CSS were utilized to make this introductory website.
+
+Tools used include buttons, input fields, and anchor tags.
 
 ## Supporting Scrimba
 
